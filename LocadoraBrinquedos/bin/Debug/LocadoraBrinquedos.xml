@@ -1,0 +1,88 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LocadoraBrinquedos
+</name>
+</assembly>
+<members>
+<member name="T:LocadoraBrinquedos.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:LocadoraBrinquedos.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:LocadoraBrinquedos.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:LocadoraBrinquedos.My.Resources.Resources.Add">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LocadoraBrinquedos.My.Resources.Resources.backgroundTelas">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LocadoraBrinquedos.My.Resources.Resources.Busca_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LocadoraBrinquedos.My.Resources.Resources.cancelar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LocadoraBrinquedos.My.Resources.Resources.Delete">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LocadoraBrinquedos.My.Resources.Resources.editar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LocadoraBrinquedos.My.Resources.Resources.LogoMarca">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LocadoraBrinquedos.My.Resources.Resources.LogoPapel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LocadoraBrinquedos.My.Resources.Resources.ok_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LocadoraBrinquedos.My.Resources.Resources.Print">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LocadoraBrinquedos.My.Resources.Resources.Save">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:LocadoraBrinquedos.PrintReportSample.ReportPrintDocument">
+ <summary>
+ The ReportPrintDocument will print all of the pages of a ServerReport or LocalReport.
+ The pages are rendered when the print document is constructed.  Once constructed,
+ call Print() on this class to begin printing.
+ </summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ConcordiaDelivery
+</name>
+</assembly>
+<members>
+<member name="P:ConcordiaDelivery.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ConcordiaDelivery.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:ConcordiaDelivery.My.Resources.Resources.Add">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ConcordiaDelivery.My.Resources.Resources.backgroundTelas">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ConcordiaDelivery.My.Resources.Resources.Busca_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ConcordiaDelivery.My.Resources.Resources.cancelar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ConcordiaDelivery.My.Resources.Resources.Delete">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ConcordiaDelivery.My.Resources.Resources.editar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ConcordiaDelivery.My.Resources.Resources.LogoMarca">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ConcordiaDelivery.My.Resources.Resources.LogoPapel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ConcordiaDelivery.My.Resources.Resources.ok_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ConcordiaDelivery.My.Resources.Resources.Print">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ConcordiaDelivery.My.Resources.Resources.Save">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:ConcordiaDelivery.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:ConcordiaDelivery.PrintReportSample.ReportPrintDocument">
+	<summary>
+ The ReportPrintDocument will print all of the pages of a ServerReport or LocalReport.
+ The pages are rendered when the print document is constructed.  Once constructed,
+ call Print() on this class to begin printing.
+ </summary>
+</member>
+</members>
+</doc>
